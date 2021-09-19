@@ -10,4 +10,4 @@
 
 - Reset CSS,box-shodow,transform,transition,Flex structure,using variables
 
-![gif](https://raw.githubusercontent.com/yhekim/Chat-Interface-frontend/main/chat%20interface%20frontend.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Dashboard-Interface/main/dashaboard.gif)
